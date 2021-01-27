@@ -11,7 +11,7 @@ I'm experienced Front-end developer. I love programming and always improve my sk
 
 As a front-end developer I'm very attention to details and do my job as much good as it can be! 
 
-🎯 `My goal` is not just to finish work, I try to do it the best solution! 
+🎯 `My goal` is not just to finish work, I try to do it with the best solution! 
 
 
 <img align="right" alt="GIF" src="https://github.com/Serhiy-Holiaka/Serhiy-Holiaka/blob/main/coding.gif?raw=true" width="400" height="300" />
