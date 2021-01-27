@@ -15,7 +15,7 @@ As a front-end developer I'm very attention to details and do my job as much goo
 🎯 `My goal` is not just to finish work, I try to do it with the best solution! 
 
 
-<img align="right" alt="GIF" src="https://github.com/Serhiy-Holiaka/Serhiy-Holiaka/blob/main/coding.gif?raw=true" width="400" height="300" />
+<img align="right" alt="GIF" src="https://github.com/Serhiy-Holiaka/Serhiy-Holiaka/blob/main/coding.gif?raw=true" width="300" height="200" />
 
 
 **Talking about Personal Stuffs:**
