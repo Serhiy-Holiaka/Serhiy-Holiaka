@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hi there, I'm `Serhiy Holiaka` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**Serhiy-Holiaka/Serhiy-Holiaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-holiaka)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/serhiy_holiaka/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3578E5?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/serhiy.holiaka/)
+[![Upwok Badge](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=UpWork&logoColor=white)](https://t.me/GKassym)
 
-Here are some ideas to get you started:
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Serhiy-Holiaka.Serhiy-Holiaka)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm experienced Front-end developer. I love programming and always improve my skills in WEB development.
+
+As a front-end developer I'm very attention to details and do my job as much good as it can be! 
+
+🎯 `My goal` is not just to finish work, I try to do it the best solution! 
+
+
+<img align="right" alt="GIF" src="https://github.com/Serhiy-Holiaka/Serhiy-Holiaka/blob/main/coding.gif?raw=true" width="400" height="300" />
+
+
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on something cool;
+- 🚀 I'm currently learning Back-end and practicing on (Node.js / PHP);
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: holiaka.s@gmail.com;
+- 📝 [Resume](https://resume.io/r/grFd8T6RK).
+
+</br>
+
+📊 **This Week I Spent My Time On:**
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Serhiy_Holiaka&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Serhiy-Holiaka&show_icons=true&hide_border=true&&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serhiy-Holiaka&hide_border=true&layout=compact"/>
+</p>
