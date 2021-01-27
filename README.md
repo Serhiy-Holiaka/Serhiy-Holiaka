@@ -1,10 +1,10 @@
 ### Hi there, I'm `Serhiy Holiaka` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<a href="https://www.linkedin.com/in/serhii-holiaka"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Stars Badge"/></a>
-<a href="https://www.instagram.com/serhiy_holiaka/"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Stars Badge"/></a>
-<a href="https://www.facebook.com/serhiy.holiaka/"><img src="https://img.shields.io/badge/-Facebook-3578E5?style=flat-square&logo=Facebook&logoColor=white" alt="Stars Badge"/></a>
-<a href="https://www.upwork.com/fl/serhiyholiaka"><img src="https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=UpWork&logoColor=white" alt="Stars Badge"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/serhii-holiaka"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Stars Badge"/></a>
+<a target="_blank" href="https://www.instagram.com/serhiy_holiaka/"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Stars Badge"/></a>
+<a target="_blank" href="https://www.facebook.com/serhiy.holiaka/"><img src="https://img.shields.io/badge/-Facebook-3578E5?style=flat-square&logo=Facebook&logoColor=white" alt="Stars Badge"/></a>
+<a target="_blank" href="https://www.upwork.com/fl/serhiyholiaka"><img src="https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=UpWork&logoColor=white" alt="Stars Badge"/></a>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Serhiy-Holiaka.Serhiy-Holiaka)
 
