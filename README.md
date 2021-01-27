@@ -18,7 +18,7 @@ As a front-end developer I'm very attention to details and do my job as much goo
 <img align="right" alt="GIF" src="https://github.com/Serhiy-Holiaka/Serhiy-Holiaka/blob/main/coding.gif?raw=true" width="300" height="200" />
 
 
-**Talking about Personal Stuffs:**
+📋 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I'm currently learning Back-end and practicing on (Node.js / PHP);
@@ -29,6 +29,7 @@ As a front-end developer I'm very attention to details and do my job as much goo
 </br>
 
 📊 **This Week I Spent My Time On:**
+</br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Serhiy_Holiaka&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
