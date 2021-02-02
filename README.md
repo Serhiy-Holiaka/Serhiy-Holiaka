@@ -30,7 +30,7 @@ As a front-end developer I'm very attention to details and do my job as much goo
 
 📊 **This Week I Spent My Time On:**
 </br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Serhiy_Holiaka&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Serhiy_Holiaka&hide_border=true&count_private=true)](https://github.com/Serhiy_Holiaka/github-readme-stats)
 
 
 📈 **My GitHub Stats:**
