@@ -36,6 +36,6 @@ As a front-end developer I'm very attention to details and do my job as much goo
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Serhiy-Holiaka&show_icons=true&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Serhiy-Holiaka&layout=compact&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Serhiy-Holiaka&show_icons=true&hide_border=true&count_private=true" />
 </p>
